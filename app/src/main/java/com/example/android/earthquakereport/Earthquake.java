@@ -1,5 +1,6 @@
 package com.example.android.earthquakereport;
 
+// checking git
 
 
 public class Earthquake {

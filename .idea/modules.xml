@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EarthquakeReport.iml" filepath="$PROJECT_DIR$/EarthquakeReport.iml" />
+      <module fileurl="file://E:\Work\Git Projects\EarthquakeReport\EarthquakeReport.iml" filepath="E:\Work\Git Projects\EarthquakeReport\EarthquakeReport.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Work\Git Projects\EarthquakeReport\app\app.iml" filepath="E:\Work\Git Projects\EarthquakeReport\app\app.iml" />
     </modules>
   </component>
 </project>
